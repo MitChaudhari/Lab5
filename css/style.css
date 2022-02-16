@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: hsla(19, 93%, 48%, 0.979);
+    text-align: center;
+    font-family:cursive;
+    font-size: 40px;
+    
+}
+thead{
+    font-family: Times New Roman (serif);
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+tbody{
+    text-align: center;
+    font-family: Gill Sans, sans-serif;
+    background-color: black;
+    color: bisque;
+}
+#Mercury{
+    color: black;
+    background-color: white
+}
+#Venus{
+    color: black;
+    background-color: white
+}
+#Earth{
+    background-color: rgb(136, 136, 221);
+    color: black;
+}
+#Mars{
+    background-color: rgb(136, 136, 221);
+    color: black;
+}
