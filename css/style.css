@@ -6,7 +6,16 @@ h1{
     text-align: center;
     font-family:cursive;
     font-size: 40px;
+    text-decoration: underline;
     
+}
+#Intro{
+    font-size: 23px;
+}
+h2{
+    font-family:Comic Sans MS;
+    text-align: center;
+    color: rgb(51, 54, 177)
 }
 thead{
     font-family: Times New Roman (serif);
@@ -36,3 +45,16 @@ tbody{
     background-color: rgb(136, 136, 221);
     color: black;
 }
+#photos{
+    border-image-slice: fill;
+    border-left: 1px solid black;
+    background-color: black;
+    float:right;
+}
+img {
+    float:right;
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    border-image: auto;
+ }
