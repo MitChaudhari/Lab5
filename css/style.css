@@ -19,13 +19,14 @@ h2{
     color: rgb(51, 54, 177)
     
 }
-thead{
+thead {
     width: 100%;
-    font-family: Times New Roman (serif);
-    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
     background-color: black;
     text-align: center;
 }
+
 tbody{
     height: 70px;
     text-align: center;
