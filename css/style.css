@@ -13,17 +13,21 @@ h1{
     font-size: 23px;
 }
 h2{
+    min-width: 500px;
     font-family:Comic Sans MS;
     text-align: center;
     color: rgb(51, 54, 177)
+    
 }
 thead{
+    width: 100%;
     font-family: Times New Roman (serif);
     color: aliceblue;
     background-color: black;
     text-align: center;
 }
 tbody{
+    height: 70px;
     text-align: center;
     font-family: Gill Sans, sans-serif;
     background-color: black;
@@ -47,14 +51,22 @@ tbody{
 }
 #photos{
     border-image-slice: fill;
-    border-left: 1px solid black;
     background-color: black;
-    float:right;
+    float:left;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
 }
 img {
-    float:right;
-    width: 50%;
-    height: 50%;
+   
+    float:left;
+    width: 25%;
+    height: 25%;
     background-color: black;
-    border-image: auto;
+ 
  }
+ .table td {
+    padding: 20px 20px;
+}
+.table th {
+    padding: 20px 20px;
+}
